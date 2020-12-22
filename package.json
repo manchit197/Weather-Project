@@ -1,0 +1,17 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "A Weather Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Suen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "ig": "0.0.5",
+    "npm": "^7.3.0"
+  }
+}
